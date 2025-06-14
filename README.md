@@ -1,0 +1,1 @@
+ - package = npm init -y && npm i express nodemon cors body-parser dotenv uuid
